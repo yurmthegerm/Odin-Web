@@ -1,0 +1,155 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 4px 32px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.content.one {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+    align-items: center;
+}
+
+.content.one img {
+    margin: 0;
+    padding: 0;
+}
+
+.sign.one {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 8px;
+    margin-bottom: 36px;
+}
+
+.text.one {
+    max-width: 400px;
+}
+
+.this.one {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.this.two {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.content.two {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.info img {
+    width: 100px;
+    height: 100px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin: 32px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.info {
+    justify-content: center;
+}
+
+.text.two {
+    max-width: 100px;
+}
+
+.content.three {
+    background-color: #e5e7eb;
+    margin-top: 50px;
+    padding: 150px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+
+.writer {
+    text-align: right;
+}
+
+.content.four {
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 10px;
+    max-width: fit-content;
+    max-height: fit-content;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 80px;
+    margin: auto;
+    gap: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.call {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sign {
+    color: #E5E7EB;
+}
+
+.sign.two {
+    background-color: #3882f6;
+    border-color: #F9FAF8;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 30px;
+    color: #E5E7EB;
+    text-align: center;
+}
+
+
